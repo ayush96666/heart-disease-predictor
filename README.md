@@ -36,3 +36,7 @@ UCI Heart Disease Dataset
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+## 📸 Output Screenshot
+
+![App Screenshot](output.png)
