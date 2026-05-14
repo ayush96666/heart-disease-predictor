@@ -1,0 +1,5 @@
+tensorflow
+keras
+pandas
+numpy
+streamlit==1.41.1
